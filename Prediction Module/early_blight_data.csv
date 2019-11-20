@@ -1,0 +1,21 @@
+Temperature,Wet_Period,Severity
+Low,Very Small,0
+Low,Small,0
+Low,Medium,1
+Low,Long,1
+Low,Very Long,2
+Mild,Very Small,0
+Mild,Small,1
+Mild,Medium,2
+Mild,Long,3
+Mild,Very Long,3
+Moderate,Very Small,1
+Moderate,Small,2
+Moderate,Medium,2
+Moderate,Long,3
+Moderate,Very Long,3
+High,Very Small,0
+High,Small,1
+High,Medium,1
+High,Long,1
+High,Very Long,2

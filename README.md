@@ -4,9 +4,9 @@ A cloud based app designed to quickly recognize tomato plant leaf diseases.
 
 The app consists of 3 main fragments :
 
-- Home Screen (Image-1)
-- Forecast Module - To access this fragment, swipe right from the home screen.
-- History Log - To access this fragment, swipe left from the home screen.
+- **Home Screen (Image-1)**
+- **Forecast Module -** To access this fragment, swipe right from the home screen.
+- **History Log -** To access this fragment, swipe left from the home screen.
 
 
 Following are some screenshots of the app interface with their respective functionality:

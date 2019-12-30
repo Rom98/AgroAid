@@ -23,7 +23,7 @@ Following are some screenshots of the app interface with their respective functi
 
 
 
-|<img src="https://user-images.githubusercontent.com/22832487/71579965-c9a3e580-2b24-11ea-867a-58f1fae8fe3f.jpeg" width="205" height="320">|<img src="https://user-images.githubusercontent.com/22832487/71581817-1d1a3180-2b2d-11ea-8541-a2915ad782b2.jpeg" width="195" height="320">|
+|<img src="https://user-images.githubusercontent.com/22832487/71579965-c9a3e580-2b24-11ea-867a-58f1fae8fe3f.jpeg" width="205" height="330">|<img src="https://user-images.githubusercontent.com/22832487/71581817-1d1a3180-2b2d-11ea-8541-a2915ad782b2.jpeg" width="195" height="330">|
 |:---:|:---:| 
 | **Forecasting Module** |**History Log** |
 
